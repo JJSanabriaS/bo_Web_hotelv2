@@ -1,0 +1,2 @@
+adicionar en 399 --> action="welcome.php" method="post" 
+correccion linea 410 --> booking departure

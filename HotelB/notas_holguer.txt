@@ -1,0 +1,29 @@
+plantilla con ajustes
+fotos de los cuartos
+politica costo inicial de los cuarto
+dimension de los cuartos
+politica niños (edad)
+
+
+
+
+plantilla hotel hilton (brazil no considera pagos diferentes a credito) https://www.hilton.com/pt/book/reservation/flexibledates/?ctyhocn=LONHYDI&arrivalDate=2020-10-18&departureDate=2020-10-19&room1NumAdults=1
+https://www.hilton.com/pt/book/reservation/rooms/?ctyhocn=CTGHIHH&arrivalDate=2020-10-18&departureDate=2020-10-19&room1NumAdults=1&inputModule=HOTEL_SEARCH&cid=
+https://www.hilton.com/pt/book/reservation/rates/
+
+
+
+
+
+
+
+
+especificaciones de las habitaciones (capacidad,tamaño,vista)
+**************************************+
+falta ingresar en plantilla
+<form action="welcome.php" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
+************************************
